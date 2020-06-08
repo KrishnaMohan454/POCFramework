@@ -11,6 +11,7 @@
 @interface ModelClass : NSObject
 
 +(void)getName;
++(void)dataClass;
 
 @end
 
