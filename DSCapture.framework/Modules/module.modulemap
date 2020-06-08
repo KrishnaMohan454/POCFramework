@@ -1,0 +1,6 @@
+framework module DSCapture {
+  umbrella header "DSCapture.h"
+
+  export *
+  module * { export * }
+}
